@@ -1,0 +1,10 @@
+<mvc:View controllerName="studentdk.com.sap.training.ux402.listdetail.ux402listdetail.controller.DetailObjectNotFound"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+     <IllustratedMessage id="detailObjectNotFoundPage"
+                        title="{i18n>detailTitle}"
+                        description="{i18n>noObjectFoundText}"
+                        illustrationType="sap.m.IllustratedMessageType.PageNotFound">                 
+    
+    </IllustratedMessage>
+</mvc:View>
